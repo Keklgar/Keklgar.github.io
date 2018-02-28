@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Лабораторные работы дисциплины "Проектирование информационных систем" (Часть 2. "Объектно-ориентированное проектирование и программирование") являются продолжением Части 1. "Структурное проектирование" и должны выполняться в соответствии с общим планом работ
 
-You can use the [editor on GitHub](https://github.com/Keklgar/Keklgar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Модуль 1 (26.02-11.03)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Личная страница размещена в <имя>.github.io, в ней есть ссылка на выбранный проект и сам личный репозиторий
+В личном репозитории сделан readme.md с описанием персональных задач и ссылками
+Ссылка на личную страницу зарегистрирована в списке группы с использованием fork
+Разработана требуемая UML-диаграмма, размещена в wiki как иллюстрация к тексту
 
-### Markdown
+**Модуль 2 (19.03-15.04)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Разработан требуемый класс (метод) в выбранном проекте
+Разработанный класс (метод) проверен с помощью unit-теста
+Разработанный класс (метод) проверен в составе приложения
+Разработанный класс (метод) задокументирован в wiki
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Keklgar/Keklgar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Сессия (07.05-20.05)**
