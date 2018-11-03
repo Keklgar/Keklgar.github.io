@@ -1,6 +1,23 @@
 Для успешной сдачи лабораторных работ и проекта студентам предлагается создание личной страницы, на которой будут размещаться отчеты c результатами всех лабораторных работ и проекта. Предлагается использовать бесплатный хостинг от GitHub. Советую ознакомиться с инструкцией (https://htmlacademy.ru/blog/99-github-as-hosting)
 
-https://github.com/stankin/inet-2018/invitations
+> ВАЖНО!!! Формирование личной страницы обязательно абсолютно для всех, для личной страницы обязательно использование css. Если в приложении не используются js,jquery и json,xml - они должны использоваться для оформления личной страницы
+При формировании отчетов на личной странице все задачи должны иметь подтверждения их выполнения ("пруфы"), в качестве которых могут использоваться:
+* ссылки на работающие приложения
+* ссылки на исходные коды
+* цитаты с исходными кодами
+* скриншоты
+
+Для написания кода личной страницы и веб-приложения рекомендуется использовать:
+* [https://html5book.ru/](https://html5book.ru/)
+* [http://htmlbook.ru/](http://htmlbook.ru/)
+* [http://javascript.ru/](http://javascript.ru/)
+* [https://learn.javascript.ru/](https://learn.javascript.ru/)
+* [https://www.codecademy.com/](https://www.codecademy.com/)
+* [http://www.w3schools.com/html/html_intro.asp - справочник, примеры, тесты](http://www.w3schools.com/html/html_intro.asp)
+* [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
+* [http://www.sublimetext.com/](http://www.sublimetext.com/)
+
+<h1>  Группа ИДМ-18-01 </h1>
 
 | Студент | Ссылка на Github | Ссылка на персональную страницу-отчёт |
 | :---:   |   :-:    |   :-:    | 
